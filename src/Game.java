@@ -53,7 +53,7 @@ public class Game {
             {
                 int x = 0;
                 int y = 0;
-                Scanner fromFile = new Scanner(new File(".idea/Level1.txt"));
+                Scanner fromFile = new Scanner(new File("Level1.txt"));
 
                 while(fromFile.hasNextLine())
                 {
@@ -124,7 +124,7 @@ public class Game {
             {
                 int x = 0;
                 int y = 0;
-                Scanner fromFile = new Scanner(new File(".idea/Level2.txt"));
+                Scanner fromFile = new Scanner(new File("Level2.txt"));
 
                 while(fromFile.hasNextLine())
                 {
@@ -194,7 +194,7 @@ public class Game {
             {
                 int x = 0;
                 int y = 0;
-                Scanner fromFile = new Scanner(new File(".idea/Level3.txt"));
+                Scanner fromFile = new Scanner(new File("Level3.txt"));
 
                 while(fromFile.hasNextLine())
                 {
